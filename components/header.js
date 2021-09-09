@@ -123,7 +123,7 @@ export default function Header() {
               </p>
               <p className="text-lg text-white">
                 We are all about setting intentions and rebalancing your energy.
-                Use your candle to release energy and manifest any desire you'd
+                Use your candle to release energy and manifest any desire youd
                 like.
               </p>
               <a
